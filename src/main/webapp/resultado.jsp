@@ -3,7 +3,7 @@
 <%! Calculadora calc = new Calculadora();%>
 <%
     Double numero = Double.valueOf(request.getParameter("numero"));
-    Double cuadrado = calc.Cuadrado(numero);
+    Double cuadrado = calc.cuadrado(numero);
 %>
 <!DOCTYPE html>
 <html lang="es">
