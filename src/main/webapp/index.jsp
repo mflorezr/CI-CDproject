@@ -7,7 +7,7 @@
         <title>Cálculo de Cuadrados</title>
     </head>
     <body>
-        <div style = "background-color: greenyellow">
+        <div style = "background-color: #ccffcc">
             <h1>Cálculo de Cuadrados</h1>
             <form action="resultado.jsp">
                 <p>Buenas noches.</p>
